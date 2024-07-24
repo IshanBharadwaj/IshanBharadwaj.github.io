@@ -9,3 +9,4 @@ I successfully completed my 12th grade at Vardhman International Public School.
 - "I enjoy delving into and learning various programming languages."
 # Hobby 
 - "Engaging in sketching and immersing myself in music, I find a creative sanctuary where each stroke of the pencil and every note of a melody fuels my imagination and soothes my soul."
+- # ""Thank you for visiting! We look forward to welcoming you back soon for more updates and insights.""
